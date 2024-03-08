@@ -7,10 +7,12 @@ images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981e
 
 
 - 🔭 I’m currently working on **Educonnect Bharat**
+   
+- 👨‍💻 Currently pursuing a BTech in Computer Science from Vellore Institute of Technology.
 
 - 🌱 I’m currently learning **Data Structure & Algorithms Concept**
 
-- 👨‍💻 All of my projects are available at [ravikasaudhan.live](ravikasaudhan.live)
+- 👨‍💻 All of my project live here visit my website - [raviksaudhan.live](raviksaudhan.live)
 
 - 📫 How to reach me **ravikasaudhan01@gmail.com**
 
