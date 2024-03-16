@@ -1,13 +1,12 @@
 ![logo](bro_image.png)
 <h1 align="center">** Hi 👋, I'm RAVI KASAUDHAN (Rudra) 👨‍💻 ** </h1>
 <h3 align="center">A passionate frontend developer from India 🇮🇳 </h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<img align="" alt="Coding" width="100" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"›
 
 
 
 - 🔭 I’m currently working on **Educonnect Bharat**
-   
-- 👨‍💻 Currently pursuing a BTech in Computer Science from Vellore Institute of Technology.
+
 
 - 🌱 I’m currently learning **Data Structure & Algorithms Concept**
 
